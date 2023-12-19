@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 public class Ex02대소문자변환 {

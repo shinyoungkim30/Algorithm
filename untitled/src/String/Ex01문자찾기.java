@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 public class Ex01문자찾기 {
