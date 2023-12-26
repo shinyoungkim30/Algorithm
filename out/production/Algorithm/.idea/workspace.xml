@@ -28,9 +28,6 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2XSqisH91W7gtzwwkW74fsTwrVJ" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +36,6 @@
   "keyToString": {
     "Application.Ex02괄호문자제거.executor": "Run",
     "Application.Ex03크레인인형뽑기.executor": "Run",
-    "Application.Ex04후위식연산.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
