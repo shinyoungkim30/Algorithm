@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8792a5a-bc0b-4a50-8cea-598337d047a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/StackQueue/Ex08응급실.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/StackQueue/Ex08응급실.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex01선택정렬.executor": "Run",
     "Application.Ex02괄호문자제거.executor": "Run",
+    "Application.Ex02버블정렬.executor": "Run",
+    "Application.Ex03삽입정렬.executor": "Run",
     "Application.Ex03크레인인형뽑기.executor": "Run",
     "Application.Ex04후위식연산.executor": "Run",
     "Application.Ex05쇠막대기.executor": "Run",
