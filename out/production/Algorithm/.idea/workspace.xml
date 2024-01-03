@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8792a5a-bc0b-4a50-8cea-598337d047a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8792a5a-bc0b-4a50-8cea-598337d047a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Ex01선택정렬.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex02괄호문자제거.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex02버블정렬.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex03삽입정렬.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex03크레인인형뽑기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex04후위식연산.executor&quot;: &quot;Run&quot;,
     &quot;Application.Ex05쇠막대기.executor&quot;: &quot;Run&quot;,
